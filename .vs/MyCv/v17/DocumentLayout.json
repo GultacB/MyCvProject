@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MyCv\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91B9A607-D7F5-49AF-A7CE-FF3415628339}|MyCv\\MyCv.csproj|c:\\users\\user\\source\\repos\\mycv\\mycv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{91B9A607-D7F5-49AF-A7CE-FF3415628339}|MyCv\\MyCv.csproj|solutionrelative:mycv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{91B9A607-D7F5-49AF-A7CE-FF3415628339}|MyCv\\MyCv.csproj|c:\\users\\user\\source\\repos\\mycv\\mycv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91B9A607-D7F5-49AF-A7CE-FF3415628339}|MyCv\\MyCv.csproj|solutionrelative:mycv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B9A607-D7F5-49AF-A7CE-FF3415628339}|MyCv\\MyCv.csproj|c:\\users\\user\\source\\repos\\mycv\\mycv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91B9A607-D7F5-49AF-A7CE-FF3415628339}|MyCv\\MyCv.csproj|solutionrelative:mycv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyCv\\MyCv\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MyCv\\Views\\Home\\Index.cshtml",
@@ -35,19 +39,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyCv\\MyCv\\Program.cs",
               "RelativeDocumentMoniker": "MyCv\\Program.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\MyCv\\MyCv\\Program.cs",
               "RelativeToolTip": "MyCv\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T10:25:36.159Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-07-05T10:25:36.159Z",
+              "EditorCaption": ""
             }
           ]
         }
